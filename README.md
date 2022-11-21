@@ -1,2 +1,3 @@
 # Vdo-mands
-เนื้อหาการแข่งขัน
+- [ข้อกำหนดหลัก](https://github.com/KCCHDEV/Vdo-mands/blob/main/Doc.md)
+
